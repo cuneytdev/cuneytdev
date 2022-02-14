@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on React, React Native, Angular and Python projects
 - 🌱 I’m currently learning https://keras.io/guides/functional_api
-- 📫 How to reach me: Please mail me! cuneytdalan17@gmail.com
+- 📫 Mail me: cuneytdalan17@gmail.com
 
 <!--
 **cuneytdev/cuneytdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
