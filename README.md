@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cuneytdev&color=brightgreen&style=flat-square)
 
+- 🔭 I’m currently working on React, React Native, Angular and Python projects
 - 🌱 I’m currently learning https://keras.io/guides/functional_api
 - 📫 How to reach me: Please mail me! cuneytdalan17@gmail.com
 
