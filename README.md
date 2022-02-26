@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ### 🏆 Github Status
-<a href="https://github.com/ZQ-jhon" target="__blank">
+<a href="https://github.com/cuneytdev" target="__blank">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuneytdev&layout=compact&theme=react" alt="cuneytdev's top languages" />
 </a>
